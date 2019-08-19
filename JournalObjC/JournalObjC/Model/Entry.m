@@ -17,7 +17,7 @@
     if (self)
     {
         _name = [name copy];
-        _body = [name copy];
+        _body = [body copy];
         _timestamp = [NSDate date];
     }
     
